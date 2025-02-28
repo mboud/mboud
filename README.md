@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mboud, I'm a backend developer.
+- 👋 Hi, I’m Matthieu, I'm a backend developer.
 - 👀 I’m interested in .NET development and cars, preferably pre-2000 and from BMW.
 - 🌱 I’m currently learning .NET nanoFramework, microcontrollers and electronics.
 - 📫 How to reach me: mboud.github@gmail.com
